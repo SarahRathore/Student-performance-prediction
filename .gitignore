@@ -1,0 +1,6 @@
+
+frontend/.env
+backend/__pycache__/
+*.py[cod]
+
+backend/student_predictions.db
